@@ -1,0 +1,3 @@
+/home/adam/control_of_discrete_processes/part2/build/CMakeFiles/main.dir
+/home/adam/control_of_discrete_processes/part2/build/CMakeFiles/edit_cache.dir
+/home/adam/control_of_discrete_processes/part2/build/CMakeFiles/rebuild_cache.dir

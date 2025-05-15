@@ -1,0 +1,4 @@
+# ninja log v5
+0	335	1747298728416526261	CMakeFiles/main.dir/main.cpp.o	1012928c2df4fd22
+1	587	1747298728667527488	CMakeFiles/main.dir/algorithms.cpp.o	c295ead7a0946017
+587	678	1747298728758527933	main	145c012c7fd8d5b
