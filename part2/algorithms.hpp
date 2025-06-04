@@ -30,8 +30,7 @@ void lsa(std::vector<Task> &tasks, std::vector<Machine> &machines);
 void pd(std::vector<Task> &tasks, std::vector<Machine> &machines);
 void ptas(std::vector<Task> &tasks, std::vector<Machine> &machines);
 void fptas(std::vector<Task> &tasks, std::vector<Machine> &machines);
-void findOptimalTasksOrder(std::vector<Task> &tasks,
-                           std::vector<Machine> &machines);
+void opt(std::vector<Task> &tasks, std::vector<Machine> &machines);
 void printMachines(const std::vector<Machine> &machines);
 void createMachines(std::vector<Machine> &machines, int numberOfMachines);
 
