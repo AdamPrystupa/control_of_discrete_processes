@@ -27,6 +27,12 @@ int calculateCmax(const std::vector<Machine> &machines);
 void printTasks(const std::vector<Task> &tasks);
 void lpt(std::vector<Task> &tasks, std::vector<Machine> &machines);
 void lsa(std::vector<Task> &tasks, std::vector<Machine> &machines);
+void pd(std::vector<Task> &tasks, std::vector<Machine> &machines);
+void ptas(std::vector<Task> &tasks, std::vector<Machine> &machines);
+void fptas(std::vector<Task> &tasks, std::vector<Machine> &machines);
+void findOptimalTasksOrder(std::vector<Task> &tasks,
+                           std::vector<Machine> &machines);
 void printMachines(const std::vector<Machine> &machines);
 void createMachines(std::vector<Machine> &machines, int numberOfMachines);
+
 #endif // ALGORITHMS_HPP
